@@ -1,0 +1,5 @@
+aiogram
+supabase
+yt-dlp
+requests
+huggingface-hub
